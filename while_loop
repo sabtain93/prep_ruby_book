@@ -1,0 +1,7 @@
+# Loops and iterator excersie # 2
+
+while x != "STOP" do
+  puts "please Enter STOP to terminate"
+  x = gets.chomp
+end
+
